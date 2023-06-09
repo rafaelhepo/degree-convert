@@ -1,0 +1,30 @@
+  .enterNum {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+input, button, p {
+  margin: 1rem 0 1rem 0;
+  border-color: white;
+  border-radius: 5%;
+}
+
+input {
+  background-color: rgb(255, 255, 255);
+  color: rgb(1, 66, 2);
+}
+
+
+button {
+  background-color: rgb(255, 255, 255);
+  color: rgb(1, 66, 2);
+}
+
+
+button:hover {
+  background-color: black;
+  color: white;
+}
